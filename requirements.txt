@@ -1,0 +1,39 @@
+# ============================================================
+# Multi-Agent AI System
+# LangGraph + LangChain + Gemini + Tavily + BeautifulSoup
+# ============================================================
+
+# ---------------- LLM / Agent Framework ----------------
+langchain
+langchain-core
+langchain-community
+
+# ---------------- LangGraph ----------------
+langgraph
+
+# ---------------- Google Gemini ----------------
+langchain-google-genai
+google-generativeai
+
+# ---------------- Tavily Web Search ----------------
+tavily-python
+langchain-tavily
+
+# ---------------- Web Scraping ----------------
+beautifulsoup4
+soupsieve
+lxml
+html5lib
+
+# ---------------- HTTP Requests ----------------
+requests
+
+# ---------------- Environment Variables ----------------
+python-dotenv
+
+# ---------------- Data Processing ----------------
+numpy
+pandas
+
+# ---------------- Frontend ----------------
+streamlit
